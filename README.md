@@ -1,1 +1,31 @@
 # Analogue-Nt-Mini-Noir-JB
+### Instructions
+- Extract everything to the root of your SD card and be sure to remove any existing firmware file
+- Place BIOS files in the BIOS folder. Check the README for details.
+### JB Firmware V6.7
+- Fixed Battletoads crashing on level 2
+- Fixed Bonk's Adventure boss fight floor shaking
+- Fixed Crystalis/God Slayer's not starting/getting stuck
+- Fixed Famicom Disk System dejitter setting compatibility issue (Not compatible with Zero Delay)
+- Fixed Flintstones: Rescue of Dino & Hoppy jumping title screen and status bar
+- Fixed Flintstones: Surprise at Dinosaur Peak jumping status bar
+- Fixed G.I. Joe cartridge crashing
+- Fixed Little Nemo cartridge freezing
+- Fixed Mega Man V robot screen jumping
+- Fixed Micro Mages graphical & audio glitches with cartridge
+- Fixed Mighty Final Fight freezing
+- Fixed Shadow of the Ninja freeze on opening cutscene
+- Fixed Summer Carnival '92: Recca jumpy status bar
+- Fixed Vertical Green Lines in games using CHR-RAM (Castlevania, Legend of Zelda, Mega Man 1 & 2, Rygar, many others)
+- Fixed Vice: Project Doom 2nd stage status bar jumping
+- Fixed Crystalis freezing when a controller is inserted into port 2
+- Fixed Paperboy Player 2 control input
+- Fixed Micro Mages 3-4 player control input
+- Added headphone Jack L/R Swap to Audio - Headphones (note will swap RCA jacks to opposite of their labeling)
+- Microphone sensitivity setting is now reversed - 0 is minimum intensity, 63 is maximum intensity. Default setting is tuned for most games supping the microphone
+- NSF Audio Levels & Panning settings are now separate from cartridge settings
+- Fixed Atari 2600 graphic issues
+- Fixed Genesis, Sega Master System, Game Gear and ColecoVision Cores crash issue
+- Fixed Intellivision RAM not cleared before loading a game
+- Improved Intellivision's third fire button is now mapped to Famicom Network Controller's 0 button for easier access, Intellivision numberpad 0 button has been remapped to Famicom Network Controller's . button
+- Improved: Odyssey^2 controllers swapped
